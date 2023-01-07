@@ -1,0 +1,8 @@
+Famous star with cheesse burger,660.0
+Super star with cheesse burger,920.0
+Western bacon cheesse burger,810.0
+Double wetern bacon burger,1060.0
+the big hardiee burger,920.0
+the really big hardiee cheesse burger,1170.0
+Frisco angus burger,760.0
+small HamBurger,250.0

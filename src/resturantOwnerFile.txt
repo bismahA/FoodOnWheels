@@ -1,0 +1,5 @@
+ali,abcde,hardees
+ahmed,123ab,ginyaki
+hamza,abcde,bundooKhan
+asma,abcde,chaiKhanna
+sf,fsa,fsaf
